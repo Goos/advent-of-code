@@ -1,0 +1,2 @@
+possible games sum: 2256
+sum of powers: 74229
