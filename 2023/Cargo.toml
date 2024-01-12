@@ -1,0 +1,12 @@
+[workspace]
+members = [
+  "day-1",
+  "day-2",
+  "day-3",
+  "day-4",
+  "day-5",
+  "day-8",
+]
+
+[workspace.dependencies]
+strum = { version = "0.25", features = ["derive"] }
